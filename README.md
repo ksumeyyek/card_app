@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot_1](https://github.com/ksumeyyek/card_app/assets/86602490/18450062-536f-443c-9a1f-49e5717c20ad)
 
 ## Available Scripts
 
